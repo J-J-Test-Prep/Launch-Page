@@ -2,7 +2,7 @@ body {
   font-family: "Lato", sans-serif;
   background-image: linear-gradient(to bottom left, black, #68aeeb);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   color: white;
 }
 
@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-  margin: 0;
+  margin: 0.25;
 }
 
 #container {
