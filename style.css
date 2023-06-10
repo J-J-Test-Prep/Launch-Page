@@ -1,17 +1,30 @@
 body {
   font-family: "Lato", sans-serif;
-  /* background-color: black; */
   background-image: linear-gradient(to bottom left, black, #68aeeb);
+  background-size: cover;
+  width: 100%;
+  height: 100%;
   color: white;
 }
 
+@media only screen and (min-width: 400px) {
+  body {
+    background-image: linear-gradient(to bottom left, black, #68aeeb);
+    background-size: cover;
+  }
+}
+
 img {
-  width: 38%;
-  height: 38%;
+  width: 40%;
+  height: 40%;
+  margin-top: 0;
+}
+
+h1 {
   margin: 0;
 }
 
-h4 {
+h2 {
   margin: 0;
 }
 
