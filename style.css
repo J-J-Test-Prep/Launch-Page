@@ -1,13 +1,13 @@
 body {
   font-family: "Lato", sans-serif;
   /* background-color: black; */
-  background-image: linear-gradient(to bottom left, black, #383838);
+  background-image: linear-gradient(to bottom left, black, #68aeeb);
   color: white;
 }
 
 img {
-  width: 45%;
-  height: 45%;
+  width: 38%;
+  height: 38%;
   margin: 0;
 }
 
