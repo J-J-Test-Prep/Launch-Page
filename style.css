@@ -3,8 +3,6 @@ body {
   background-image: linear-gradient(to bottom left, black, #68aeeb);
   background-repeat: no-repeat;
   background-size: cover;
-  width: auto;
-  height: auto;
   color: white;
 }
 
